@@ -1,0 +1,15 @@
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\bin\Debug\net6.0\Tarea_1_WernerMonge.exe
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\bin\Debug\net6.0\Tarea_1_WernerMonge.deps.json
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\bin\Debug\net6.0\Tarea_1_WernerMonge.runtimeconfig.json
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\bin\Debug\net6.0\Tarea_1_WernerMonge.dll
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\bin\Debug\net6.0\Tarea_1_WernerMonge.pdb
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.csproj.AssemblyReference.cache
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.AssemblyInfoInputs.cache
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.AssemblyInfo.cs
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.csproj.CoreCompileInputs.cache
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.dll
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\refint\Tarea_1_WernerMonge.dll
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.pdb
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\Tarea_1_WernerMonge.genruntimeconfig.cache
+C:\Users\Rivas\OneDrive\Documentos\Ale\UH\Progra II\Tarea_1_WernerMonge\obj\Debug\net6.0\ref\Tarea_1_WernerMonge.dll
